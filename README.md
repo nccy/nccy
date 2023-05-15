@@ -6,7 +6,7 @@
 
 <a href="https://github.com/nccy">
   <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@:nccy?theme=rule34" alt="极客飞兔" />
+    <img align="right" src="https://count.getloli.com/get/@:nccy?theme=rule34" alt="CSDN" />
   </div>
 </a>
 
